@@ -1,2 +1,2 @@
 # PromptEngineering
-building a LangChain implementation of your prompt
+building a LangChain implementation of the prompt
